@@ -1,0 +1,11 @@
+6주차 오픈소프트웨어 실습 
+
+지역저장소와 원격저장소 연결
+
+1. git remote add origin https://gitgub.com/hyeon0313/git-girst  << 1번만 작업
+
+2. git remote -v  << 연결된 주소 확인 
+
+3. git push -u origin master << 원격저장소에 올리기
+
+완료!
